@@ -8,14 +8,14 @@ The goal of this book is to teach you how to build a game using Cocos2d-x. You w
 Book Content
 ============
 
-1 Introduction to Cocos2d-x (CHAPTER COMPLETED)
+1 Introduction to Cocos2d-x
 
 
 - What is Cocos2d-x
 - What is new on Cocos2d-x version 3.0
 - The Book Game - Tap a Plane
 
-2 Getting Started with Cocos2d-x (CHAPTER COMPLETED)
+2 Getting Started with Cocos2d-x
 
 - Installing Cocos2d-x
 - Configuration for iOS and Mac OS X
@@ -25,7 +25,7 @@ Book Content
 - Creating a new project
 - Summary
 
-3 Toolset and Support (CHAPTER COMPLETED)
+3 Toolset and Support
 
 - Graphics Tools
 - Sprite Sheets and Physics
@@ -36,27 +36,27 @@ Book Content
 - CocoStudio
 - Summary
 
-4 Sprites and Effects (CHAPTER COMPLETED)
+4 Sprites and Effects
 
 - Working with Sprites
 - Including Actions
 - Using Animations
 - Summary
 
-5 Multiple Layers and Multiple Scenes (CHAPTER COMPLETED)
+5 Multiple Layers and Multiple Scenes
 
 - Game Architecture in Cocos2d-x
 - Working with Multiple Layers
 - Working with Multiple Scenes
 - Summary
 
-6 Game Loop and Events (CHAPTER COMPLETED)
+6 Game Loop and Events
 
 - Game Scheduler
 - Touch Events
 - Summary
 
-7 Physics Engines and Cocos2d-x (CHAPTER STARTED)
+7 Physics Engines and Cocos2d-x
 
 - Introduction to Box2D
 - Configuring Box2d on Cocos2d-x 3.0
@@ -72,7 +72,7 @@ Book Content
 - Adding Parallax Effect
 - Summary
 
-9 Sound Effects and Music (CHAPTER STARTED)
+9 Sound Effects and Music
 
 - Introduction to CocosDenshion
 - Adding Sound Effects and Music
