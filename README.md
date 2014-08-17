@@ -12,7 +12,7 @@ Book Content
 
 - What is Cocos2d-x
 - What is new on Cocos2d-x version 3.0
-- The Book Game - Aten Saga
+- The Book Game - Tap a Plane
 
 2. Getting Started with Cocos2d-x (CHAPTER COMPLETED)
 
