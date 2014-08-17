@@ -10,79 +10,79 @@ Book Content
 
 1. Introduction to Cocos2d-x (CHAPTER COMPLETED)
 
-    What is Cocos2d-x
-    What is new on Cocos2d-x version 3.0
-    The Book Game - Aten Saga
+- What is Cocos2d-x
+- What is new on Cocos2d-x version 3.0
+- The Book Game - Aten Saga
 
 2. Getting Started with Cocos2d-x (CHAPTER COMPLETED)
 
-    Installing Cocos2d-x
-    Configuration for iOS and Mac OS X
-    Configuration for Android on Mac OS X
-    Configuration for Microsoft Windows 7
-    Configuration for Android on Microsoft Windows 7
-    Creating a new project
-    Summary
+- Installing Cocos2d-x
+- Configuration for iOS and Mac OS X
+- Configuration for Android on Mac OS X
+- Configuration for Microsoft Windows 7
+- Configuration for Android on Microsoft Windows 7
+- Creating a new project
+- Summary
 
 3. Toolset and Support (CHAPTER COMPLETED)
 
-    Graphics Tools
-    Sprite Sheets and Physics
-    Audio
-    Layout
-    Animation
-    Utilities
-    CocoStudio
-    Summary
+- Graphics Tools
+- Sprite Sheets and Physics
+- Audio
+- Layout
+- Animation
+- Utilities
+- CocoStudio
+- Summary
 
 4. Sprites and Effects (CHAPTER COMPLETED)
 
-    Working with Sprites
-    Including Actions
-    Using Animations
-    Summary
+- Working with Sprites
+- Including Actions
+- Using Animations
+- Summary
 
 5. Multiple Layers and Multiple Scenes (CHAPTER COMPLETED)
 
-    Game Architecture in Cocos2d-x
-    Working with Multiple Layers
-    Working with Multiple Scenes
-    Summary
+- Game Architecture in Cocos2d-x
+- Working with Multiple Layers
+- Working with Multiple Scenes
+- Summary
 
 6.  Game Loop and Events (CHAPTER COMPLETED)
 
-    Game Scheduler
-    Touch Events
-    Summary
+- Game Scheduler
+- Touch Events
+- Summary
 
 7. Physics Engines and Cocos2d-x (CHAPTER STARTED)
 
-    Introduction to Box2D
-    Configuring Box2d on Cocos2d-x 3.0
-    Merging Physics with Sprites
-    Moving a Physic Body
-    Collision Detection
-    Summary
+- Introduction to Box2D
+- Configuring Box2d on Cocos2d-x 3.0
+- Merging Physics with Sprites
+- Moving a Physic Body
+- Collision Detection
+- Summary
 
 8. Game Layout
 
-    Building the Game Layout
-    Scrolling Across a Map
-    Adding Parallax Effect
-    Summary
+- Building the Game Layout
+- Scrolling Across a Map
+- Adding Parallax Effect
+- Summary
 
 9. Sound Effects and Music (CHAPTER STARTED)
 
-    Introduction to CocosDenshion
-    Adding Sound Effects and Music
-    Controlling Volume
-    Summary
+- Introduction to CocosDenshion
+- Adding Sound Effects and Music
+- Controlling Volume
+- Summary
 
 10. Saving Game Data
 
-    Using Configuration Files
-    Using SQLite3
-    Summary
+- Using Configuration Files
+- Using SQLite3
+- Summary
 
 Book Resources
 ==============
