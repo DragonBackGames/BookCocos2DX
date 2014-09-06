@@ -74,7 +74,7 @@ Book Content
 
 9 Sound Effects and Music
 
-- Introduction to CocosDenshion
+- Introduction to SimpleAudioEngine
 - Adding Sound Effects and Music
 - Controlling Volume
 - Summary
